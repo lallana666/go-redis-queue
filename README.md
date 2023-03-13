@@ -1,6 +1,6 @@
 heque
 ==========
-使用go-redis实现的一个简易消息队列
+使用go-redis实现的一个消息队列
 Job queue built on golang and etcd.
 
 ## Getting Started
